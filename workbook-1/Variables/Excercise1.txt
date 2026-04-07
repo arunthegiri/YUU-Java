@@ -1,0 +1,10 @@
+long VIN= 4981234;
+String model= “Bugatti Veyron”;
+String color=“Black”;
+boolean Towing_Package=true;
+float Odometer_rating;
+float price=5000000;
+char quality=‘A’
+long phone_number=203894098
+long social_security=456872342
+short zip_code=94102
